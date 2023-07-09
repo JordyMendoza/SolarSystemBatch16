@@ -7,5 +7,11 @@ public class Main {
         Omnax.Planets="2";
         Omnax.Star="4";
 
+        Planet1 xeon= new Planet1();
+        xeon.name="reon";
+        xeon.color="pink";
+        xeon.temp="-45celcius";
+        xeon.size="1cm";
+
     }
 }
